@@ -22,7 +22,6 @@ public class ViewModel  {
             vue.affichage();
             modele.addNom(inputm.getNom());
             inputm.setNom("");
-            System.out.println("");
         }while(true);
     }
 }
